@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '32685'
     url: http://www.gutenberg.org/2009/agents/32685
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27426#Shenanigans-at-Sugar-Creek
 gutenberg_issued: '2008-12-06'
 gutenberg_type: Text
 identifiers:
