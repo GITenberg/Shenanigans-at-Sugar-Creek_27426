@@ -1,0 +1,29 @@
+_repo: Shenanigans-at-Sugar-Creek_27426
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27426-h/images/shenanigans_cover.jpg
+creator:
+  author:
+    agent_name: Hutchens, Paul
+    birthdate: 1902
+    gutenberg_agent_id: '32685'
+    url: http://www.gutenberg.org/2009/agents/32685
+description: ''
+gutenberg_issued: '2008-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27426'
+  lccn: '47003348'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Teachers -- Fiction'
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcsh 'Christian life -- Fiction'
+title: Shenanigans at Sugar Creek
+url: http://www.gutenberg.org/ebooks/27426
